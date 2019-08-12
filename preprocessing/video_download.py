@@ -23,7 +23,7 @@ from scipy.signal import savgol_filter
 
 import cv2
 import pafy
-from pytube.exceptions import VideoUnavailable
+#from pytube.exceptions import VideoUnavailable
 
 from termcolor import colored
 
